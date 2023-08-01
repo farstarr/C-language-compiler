@@ -1,0 +1,31 @@
+int f(int m,int n){m=n; m=f(3,2); return m;}
+void main()
+{
+int a;
+a=f(3,2);
+int q[10];
+a=q[5]+1;
+q[3]=q[2]*q[1];
+int b;
+int  c,d;
+char e,x,y;
+if(a>b)
+{
+  while(a+d<=b+e&&d/e==a)
+{
+	c=b%3;
+}
+a=+c;
+c=-b;
+}
+else
+{a=c/d;}
+if(!a)
+{
+	b=a;
+}
+while(a <= b || x != y ) { e=e+100;}
+a=(b+c)*(d+e)-x+2;
+}
+
+#

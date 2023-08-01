@@ -1,0 +1,141 @@
+全局数据段
+(f,DD,0)
+局部变量
+(t0,DT,0)
+(t1,DT,0)
+(t2,DT,0)
+(t3,DT,0)
+(t4,DT,0)
+(t5,DT,0)
+(t6,DT,0)
+(t7,DT,0)
+(t8,DT,0)
+(t9,DT,0)
+(t10,DT,0)
+(t11,DT,0)
+(t12,DT,0)
+(t13,DT,0)
+(t14,DT,0)
+(t15,DT,0)
+(t16,DT,0)
+(t17,DT,0)
+(t18,DT,0)
+(t19,DT,0)
+(t20,DT,0)
+(t21,DT,0)
+(t22,DT,0)
+函数数据段
+(m,DD,0)
+(n,DD,0)
+函数数据段
+(a,DD,0)
+(q,DD,0DUP(0))
+(b,DD,0)
+(c,DD,0)
+(d,DD,0)
+(e,DB,0)
+(x,DB,0)
+(y,DB,0)
+0	f	PROC	 	
+1	POP	R	 	
+2	ST	R	m	
+3	POP	R	 	
+4	ST	R	n	
+5	LD	R	m	
+6	PUSH	R	 	
+7	LD	R	n	
+8	PUSH	R	 	
+9	LD	R	3	
+10	PUSH	R	 	
+11	LD	R	2	
+12	PUSH	R	 	
+13	CALL	f	 	
+14	POP	R	 	
+15	LD	R	f	
+16	POP	R	 	
+17	ST	R	m	
+18	POP	R	 	
+19	ST	R	n	
+20	LD	R	f	
+21	ST	R	m	
+22	LD	R	m	
+23	PUSH	R	 	
+24	RET	 	 	
+25	END	 	 	
+26	main	PROC	 	
+27	LD	R	m	
+28	PUSH	R	 	
+29	LD	R	n	
+30	PUSH	R	 	
+31	LD	R	3	
+32	PUSH	R	 	
+33	LD	R	2	
+34	PUSH	R	 	
+35	CALL	f	 	
+36	POP	R	 	
+37	LD	R	f	
+38	POP	R	 	
+39	ST	R	m	
+40	POP	R	 	
+41	ST	R	n	
+42	LD	R	q[5]	
+43	ADD	R	1	
+44	ST	R	a	
+45	LD	R	q[2]	
+46	MUL	R	q[1]	
+47	ST	R	q[3]	
+48	LD	R	a	
+49	GT	R	b	
+50	FJ	 	75	
+51	LD	R	a	
+52	ADD	R	d	
+53	ST	R	t3	
+54	LD	R	b	
+55	ADD	R	e	
+56	ST	R	t4	
+57	LD	R	t3	
+58	LE	R	t4	
+59	ST	R	t5	
+60	LD	R	d	
+61	DIV	R	e	
+62	EQ	R	a	
+63	AND	R	t5	
+64	FJ	 	69	
+65	LD	R	b	
+66	MOD	R	3	
+67	ST	R	c	
+68	JMP	 	51	
+69	LD	R	c	
+70	ST	R	a	
+71	LD	R	b	
+72	NEG	 	R	
+73	ST	R	c	
+74	JMP	 	78	
+75	LD	R	c	
+76	DIV	R	d	
+77	ST	R	a	
+78	LD	R	a	
+79	NO	 	R	
+80	FJ	 	83	
+81	LD	R	a	
+82	ST	R	b	
+83	LD	R	a	
+84	LE	R	b	
+85	ST	R	t14	
+86	LD	R	x	
+87	NE	R	y	
+88	OR	R	t14	
+89	FJ	 	94	
+90	LD	R	e	
+91	ADD	R	100	
+92	ST	R	e	
+93	JMP	 	83	
+94	LD	R	b	
+95	ADD	R	c	
+96	ST	R	t18	
+97	LD	R	d	
+98	ADD	R	e	
+99	MUL	R	t18	
+100	SUB	R	x	
+101	ADD	R	2	
+102	END	 	 	

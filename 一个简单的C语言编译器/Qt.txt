@@ -1,0 +1,61 @@
+func	_	_	f	
+param	_	_	m	
+param	_	_	n	
+=	n	 	m	
+TEM	_	_	f	
+value	_	_	3	
+value	_	_	2	
+call	_	_	f	
+=	f	 	m	
+re	_	m	f	
+END	_	_	_	
+func	_	_	main	
+TEM	_	_	f	
+value	_	_	3	
+value	_	_	2	
+call	_	_	f	
+=	f	 	a	
++	q[5]	1	t0	
+=	t0	 	a	
+*	q[2]	q[1]	t1	
+=	t1	 	q[3]	
+>	a	b	t2	
+if	t2	 	 	
+wh	 	 	 	
++	a	d	t3	
++	b	e	t4	
+<=	t3	t4	t5	
+/	d	e	t6	
+==	t6	a	t7	
+&&	t5	t7	t8	
+do	t8	 	 	
+%	b	3	t9	
+=	t9	 	c	
+we	 	 	 	
++	c	 	t10	
+=	t10	 	a	
+-	b	 	t11	
+=	t11	 	c	
+el	 	 	 	
+/	c	d	t12	
+=	t12	 	a	
+ie	 	 	 	
+!	a	 	t13	
+if	t13	 	 	
+=	a	 	b	
+ie	 	 	 	
+wh	 	 	 	
+<=	a	b	t14	
+!=	x	y	t15	
+||	t14	t15	t16	
+do	t16	 	 	
++	e	100	t17	
+=	t17	 	e	
+we	 	 	 	
++	b	c	t18	
++	d	e	t19	
+*	t18	t19	t20	
+-	t20	x	t21	
++	t21	2	t22	
+=	t22	 	a	
+END	_	_	_	

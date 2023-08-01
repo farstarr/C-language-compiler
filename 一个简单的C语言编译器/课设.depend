@@ -1,0 +1,564 @@
+# depslib dependency file v1.0
+1510362624 source:e:\c\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"扫描器Next.h"
+
+1510361016 e:\c\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510283454 e:\c\课设\符号表.h
+	"string"
+
+1510406240 source:c:\users\administrator\desktop\课设\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510371022 c:\users\administrator\desktop\课设\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510283454 c:\users\administrator\desktop\课设\课设\符号表.h
+	"string"
+
+1510830632 source:e:\编译原理\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510487404 e:\编译原理\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510553369 e:\编译原理\课设\符号表.h
+	"string"
+
+1510881278 source:c:\users\administrator\documents\tencent files\1352670143\filerecv\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510487404 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510553369 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设\符号表.h
+	"string"
+
+1510913209 source:e:\编译原理\苗苗\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"optimize.h"
+
+1510487404 e:\编译原理\苗苗\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510553369 e:\编译原理\苗苗\课设\符号表.h
+	"string"
+
+1510897935 e:\编译原理\苗苗\课设\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510915508 source:c:\users\as\desktop\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"optimize.h"
+
+1510915678 c:\users\as\desktop\课设\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510487404 c:\users\as\desktop\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510553369 c:\users\as\desktop\课设\符号表.h
+	"string"
+
+1510919290 source:e:\编译原理\sv\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"optimize.h"
+
+1510920231 e:\编译原理\sv\课设\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 e:\编译原理\sv\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510920364 e:\编译原理\sv\课设\符号表.h
+	"string"
+	<fstream>
+
+1510922090 source:c:\users\as\desktop\新建文件夹\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\as\desktop\新建文件夹\课设\输出.h
+	<fstream>
+	"optimize.h"
+
+1510920231 c:\users\as\desktop\新建文件夹\课设\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\as\desktop\新建文件夹\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510920364 c:\users\as\desktop\新建文件夹\课设\符号表.h
+	"string"
+	<fstream>
+
+1510927283 source:e:\编译原理\sv\课设1.1\课设\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 e:\编译原理\sv\课设1.1\课设\输出.h
+	<fstream>
+	"optimize.h"
+
+1510920231 e:\编译原理\sv\课设1.1\课设\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 e:\编译原理\sv\课设1.1\课设\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510926552 e:\编译原理\sv\课设1.1\课设\符号表.h
+	"string"
+	<fstream>
+
+1510930518 source:c:\users\as\desktop\课设1.5\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\as\desktop\课设1.5\输出.h
+	<fstream>
+	"optimize.h"
+
+1510929109 c:\users\as\desktop\课设1.5\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\as\desktop\课设1.5\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510926552 c:\users\as\desktop\课设1.5\符号表.h
+	"string"
+	<fstream>
+
+1510932242 source:c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.7\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.7\输出.h
+	<fstream>
+	"optimize.h"
+
+1510932604 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.7\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.7\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510926552 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.7\符号表.h
+	"string"
+	<fstream>
+
+1510932242 source:c:\users\as\desktop\课设1.8\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\as\desktop\课设1.8\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 c:\users\as\desktop\课设1.8\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\as\desktop\课设1.8\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510926552 c:\users\as\desktop\课设1.8\符号表.h
+	"string"
+	<fstream>
+
+1510932242 source:c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.9\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.9\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.9\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.9\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510926552 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设1.9\符号表.h
+	"string"
+	<fstream>
+
+1510967157 source:e:\编译原理\sv\课设2.0\课设2.0\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 e:\编译原理\sv\课设2.0\课设2.0\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 e:\编译原理\sv\课设2.0\课设2.0\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 e:\编译原理\sv\课设2.0\课设2.0\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510967476 e:\编译原理\sv\课设2.0\课设2.0\符号表.h
+	"string"
+	<fstream>
+
+1510972003 source:c:\users\administrator\documents\tencent files\1352670143\filerecv\课设2.1\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设2.1\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设2.1\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设2.1\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510967476 c:\users\administrator\documents\tencent files\1352670143\filerecv\课设2.1\符号表.h
+	"string"
+	<fstream>
+
+1510972003 source:c:\users\as\desktop\课设2.2\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\as\desktop\课设2.2\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 c:\users\as\desktop\课设2.2\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\as\desktop\课设2.2\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510967476 c:\users\as\desktop\课设2.2\符号表.h
+	"string"
+	<fstream>
+
+1510972003 source:c:\users\as\desktop\编译原理\编译课设\课设2.2\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<stack>
+	<string>
+	<sstream>
+	"输出.h"
+
+1510922139 c:\users\as\desktop\编译原理\编译课设\课设2.2\输出.h
+	<fstream>
+	"optimize.h"
+
+1510933003 c:\users\as\desktop\编译原理\编译课设\课设2.2\optimize.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	"扫描器Next.h"
+
+1510918278 c:\users\as\desktop\编译原理\编译课设\课设2.2\扫描器next.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	"符号表.h"
+
+1510967476 c:\users\as\desktop\编译原理\编译课设\课设2.2\符号表.h
+	"string"
+	<fstream>
+
